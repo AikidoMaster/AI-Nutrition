@@ -1,0 +1,851 @@
+id,question
+1,Is the Vegetarian Chili recipe suitable for a vegan diet?
+1,What are the main ingredients used in the Vegetarian Chili?
+1,How many calories does the Vegetarian Chili contain per serving?
+1,Can I add anything else to the Vegetarian Chili for more flavor?
+1,What is the recommended meal type for the Vegetarian Chili?
+2,Is the Grilled Chicken Salad suitable for someone with a gluten intolerance?
+2,What is the calorie content of the Grilled Chicken Salad per serving?
+2,Can you list the main ingredients used in this salad recipe?
+2,How much protein does the Grilled Chicken Salad provide?
+2,What are the cooking instructions for preparing the chicken in the salad?
+3,What are the main ingredients in the Avocado Toast recipe?
+3,Is Avocado Toast suitable for a vegetarian diet?
+3,What is the calorie content of Avocado Toast?
+3,Can I prepare Avocado Toast for breakfast?
+3,What cuisine type does Avocado Toast belong to?
+4,What is the protein content in the Kenyan Nyama Choma recipe?
+4,How many calories are in the Kenyan Nyama Choma dish?
+4,What type of meat is used in the Kenyan Nyama Choma recipe?
+4,What are the main ingredients needed to make Kenyan Nyama Choma?
+4,How do you prepare the Kenyan Nyama Choma before grilling?
+5,What type of flour is used in the vegan pancakes?
+5,Can I use a different milk instead of almond milk in this recipe?
+5,How many calories are in a serving of vegan pancakes?
+5,What is the recommended serving suggestion for these pancakes?
+5,How long do I need to cook the pancakes on each side?
+6,Is the Jollof Rice recipe suitable for a gluten-free diet?
+6,What are the main ingredients in Jollof Rice?
+6,How many calories are in a serving of Jollof Rice?
+6,What type of cuisine does Jollof Rice belong to?
+6,What is the recommended meal type for Jollof Rice?
+7,Is the Eggplant Parmesan recipe suitable for a vegetarian diet?
+7,What are the main ingredients used in this Eggplant Parmesan recipe?
+7,How many calories are there in one serving of Eggplant Parmesan?
+7,What type of cuisine does the Eggplant Parmesan belong to?
+7,What is the cooking method used to prepare the Eggplant Parmesan?
+8,What ingredients are included in the vegan Quinoa Bowl recipe?
+8,Can I get the nutritional information for the vegan Quinoa Bowl?
+8,Is the Quinoa Bowl suitable for a Mediterranean diet?
+8,What are the cooking instructions for preparing the Quinoa Bowl?
+8,What meal type does the Quinoa Bowl recipe fall under?
+9,What are the main ingredients used in the Chicken Shawarma recipe?
+9,How many calories are in a serving of Chicken Shawarma?
+9,Is Chicken Shawarma suitable for a low-carb diet?
+9,What is the recommended meal type for Chicken Shawarma?
+9,How do you prepare the Chicken Shawarma before grilling?
+10,Is the Mushroom Risotto suitable for a vegetarian diet?
+10,What are the key ingredients used in the Mushroom Risotto recipe?
+10,How many calories does the Mushroom Risotto contain?
+10,What meal type is the Mushroom Risotto intended for?
+10,What are the cooking instructions for the Mushroom Risotto?
+11,Is the Falafel Wrap suitable for a vegan diet?
+11,How many calories are in the Falafel Wrap?
+11,What are the main ingredients used in the Falafel Wrap?
+11,Can you list the nutritional information for the Falafel Wrap?
+11,What type of meal is the Falafel Wrap considered?
+12,What are the main ingredients in the Coconut Curry recipe?
+12,Is this Coconut Curry suitable for a vegan diet?
+12,How many calories does the Coconut Curry contain per serving?
+12,What is the cuisine type of the Coconut Curry dish?
+12,How long should I let the Coconut Curry simmer before serving?
+13,What is the protein content of the baked salmon recipe?
+13,How long should I bake the salmon for?
+13,What type of cuisine does the baked salmon belong to?
+13,Can you list the main ingredients used in the baked salmon recipe?
+13,Is the baked salmon considered a high-protein meal?
+14,Is the South African Bobotie safe for someone with gluten intolerance?
+14,What are the key ingredients used in the South African Bobotie recipe?
+14,Can you provide the nutritional information for the South African Bobotie?
+14,What is the cooking process for preparing South African Bobotie?
+14,What type of cuisine does Bobotie belong to?
+15,What are the main ingredients in Nigerian Egusi Soup that fit a low-carb diet?
+15,How many calories are in a serving of Nigerian Egusi Soup?
+15,Does Nigerian Egusi Soup provide a significant amount of protein?
+15,What is the cooking method for preparing Nigerian Egusi Soup?
+15,Is Nigerian Egusi Soup suitable for a main course in a low-carb meal plan?
+16,What are the main ingredients in the Tofu Stir Fry recipe?
+16,Is the Tofu Stir Fry suitable for a vegan diet?
+16,How many calories are in the Tofu Stir Fry dish?
+16,What is the recommended meal type for Tofu Stir Fry?
+16,What cooking method is used for the Tofu Stir Fry?
+17,Is the Beef Stew suitable for a gluten-free diet?
+17,What are the main ingredients in the Beef Stew recipe?
+17,How many calories does one serving of Beef Stew contain?
+17,What is the protein content in the Beef Stew?
+17,What is the cooking time for the Beef Stew?
+18,What ingredients do I need to prepare Chapati and Beans?
+18,Can you tell me the nutritional information for this vegan meal?
+18,How do I cook the kidney beans for this recipe?
+18,Is this dish suitable for lunch in an African cuisine context?
+18,How many calories are in the Chapati and Beans recipe?
+19,What are the main ingredients used in the Shakshuka recipe?
+19,Can you provide the calorie content of Shakshuka?
+19,Is Shakshuka suitable for a vegetarian diet?
+19,What type of cuisine does Shakshuka belong to?
+19,What meal is Shakshuka typically served for?
+20,Is this Lentil Soup recipe gluten-free?
+20,What are the main ingredients in the Lentil Soup?
+20,How many calories are in a serving of the Lentil Soup?
+20,What is the cooking process for the Lentil Soup?
+20,What meal type is this Lentil Soup intended for?
+21,What ingredients are used in the Moroccan Couscous recipe?
+21,Is the Moroccan Couscous suitable for a vegetarian diet?
+21,How many calories are in a serving of Moroccan Couscous?
+21,What is the best meal type for Moroccan Couscous?
+21,Can you describe the cooking instructions for Moroccan Couscous?
+22,Is the Roasted Butternut Squash Soup suitable for a vegan diet?
+22,What are the main ingredients in the Roasted Butternut Squash Soup?
+22,How many calories are in a serving of Roasted Butternut Squash Soup?
+22,What meal type is the Roasted Butternut Squash Soup designed for?
+22,Can I find any American cuisine recipes that are vegan besides this soup?
+23,Is the Spaghetti Bolognese recipe gluten-free?
+23,What are the main ingredients in this gluten-free Spaghetti Bolognese?
+23,How many calories does one serving of Spaghetti Bolognese contain?
+23,What is the protein content in the gluten-free Spaghetti Bolognese recipe?
+23,What type of cuisine does this Spaghetti Bolognese belong to?
+24,Is this Peanut Stew recipe suitable for a vegan diet?
+24,What are the main ingredients in the Peanut Stew?
+24,How many calories are in a serving of Peanut Stew?
+24,Can you explain the cooking instructions for the Peanut Stew?
+24,What cuisine does this Peanut Stew recipe belong to?
+25,What are the main ingredients in the vegetarian Stuffed Bell Peppers recipe?
+25,How many calories are in the Stuffed Bell Peppers dish?
+25,What meal type is the Stuffed Bell Peppers recipe suitable for?
+25,Can you tell me the cooking instructions for making Stuffed Bell Peppers?
+25,What type of cuisine do the Stuffed Bell Peppers belong to?
+26,Is the Chicken Tagine recipe suitable for a gluten-free diet?
+26,What are the main ingredients used in Chicken Tagine?
+26,How many calories does one serving of Chicken Tagine contain?
+26,Can you tell me the protein content in Chicken Tagine?
+26,What is the recommended meal type for Chicken Tagine?
+27,Is the Mango Salsa recipe suitable for a vegan diet?
+27,What ingredients are included in the Mango Salsa recipe?
+27,How many calories does the Mango Salsa contain per serving?
+27,What meal type is the Mango Salsa intended for?
+27,What is the basic preparation method for the Mango Salsa?
+28,What are the main ingredients used in the Vegetarian Samosas recipe?
+28,"Can you provide the nutritional information for the Vegetarian Samosas, including calories and macronutrients?"
+28,What type of cuisine do the Vegetarian Samosas belong to?
+28,Is the Vegetarian Samosas recipe suitable for a vegetarian diet?
+28,How do you prepare the filling for the Vegetarian Samosas before frying?
+29,What is the protein content in the Beef Stroganoff recipe?
+29,How many calories are in the Beef Stroganoff dish?
+29,Is Beef Stroganoff suitable for a high-protein diet?
+29,What type of cuisine does Beef Stroganoff belong to?
+29,What are the main ingredients used in Beef Stroganoff?
+30,Is the Pumpkin Pie recipe suitable for a vegetarian diet?
+30,What are the main ingredients used in the Pumpkin Pie?
+30,How many calories does one serving of Pumpkin Pie contain?
+30,What is the protein content in the Pumpkin Pie?
+30,What is the recommended baking temperature and time for the Pumpkin Pie?
+31,Is the Vegetable Stir Fry recipe suitable for a vegan diet?
+31,What are the main ingredients used in the Vegetable Stir Fry?
+31,How many calories does the Vegetable Stir Fry contain?
+31,What is the recommended meal type for the Vegetable Stir Fry?
+31,How long should I stir fry the vegetables for in the recipe?
+32,What are the main ingredients in the Shito Chicken recipe that support a low-carb diet?
+32,Can you provide the calorie count for the Shito Chicken dish?
+32,How much protein is in the Shito Chicken meal?
+32,What is the recommended meal type for Shito Chicken?
+32,Are there any specific instructions for preparing the Shito Chicken?
+33,Is the Roasted Beet Salad suitable for a vegetarian diet?
+33,What are the primary ingredients in the Roasted Beet Salad?
+33,How many calories are in the Roasted Beet Salad?
+33,Can you describe the preparation process for the Roasted Beet Salad?
+33,What type of cuisine does the Roasted Beet Salad belong to?
+34,What are the main ingredients in the Chickpea Curry recipe?
+34,Is the Chickpea Curry suitable for a vegan diet?
+34,How many calories are in one serving of the Chickpea Curry?
+34,Can you describe the cooking instructions for the Chickpea Curry?
+34,What is the meal type for the Chickpea Curry?
+35,Is Shrimp Pad Thai gluten-free?
+35,What are the main ingredients in Shrimp Pad Thai?
+35,How many calories are in a serving of Shrimp Pad Thai?
+35,What is the protein content of the Shrimp Pad Thai recipe?
+35,What is the cooking process for Shrimp Pad Thai?
+36,Is this recipe suitable for a vegetarian diet?
+36,What are the key ingredients in the Stuffed Mushrooms recipe?
+36,How many calories does one serving of Stuffed Mushrooms contain?
+36,What type of cuisine do the Stuffed Mushrooms belong to?
+36,What is the preparation method for the Stuffed Mushrooms?
+37,What are the main ingredients used in the Baked Plantains recipe?
+37,Is the Baked Plantains recipe suitable for someone following a vegan diet?
+37,How many calories are in a serving of Baked Plantains?
+37,What is the preparation method for the Baked Plantains?
+37,How long should the Baked Plantains be baked in the oven?
+38,Is the Vegan Burger suitable for a vegan diet?
+38,What are the main ingredients in the Vegan Burger recipe?
+38,How many calories does the Vegan Burger contain?
+38,What is the protein content of the Vegan Burger?
+38,What is the cooking method for the Vegan Burger?
+39,What are the main ingredients in the Chimichurri Steak recipe?
+39,How many calories does the Chimichurri Steak contain?
+39,Is the Chimichurri Steak suitable for a low-carb diet?
+39,What is the cooking time for the steak in this recipe?
+39,What type of cuisine does the Chimichurri Steak belong to?
+40,Is the Spinach Lasagna suitable for a vegetarian diet?
+40,What are the main ingredients in the Spinach Lasagna?
+40,How many calories does one serving of Spinach Lasagna contain?
+40,What is the protein content in the Spinach Lasagna?
+40,What cooking method is used for preparing the Spinach Lasagna?
+41,Is the Pasta Primavera recipe suitable for a vegetarian diet?
+41,What are the main ingredients used in the Pasta Primavera recipe?
+41,How many calories does the Pasta Primavera contain?
+41,What is the protein content in the Pasta Primavera dish?
+41,What meal type is the Pasta Primavera recommended for?
+42,Is the Harira Soup recipe suitable for a vegan diet?
+42,What are the main ingredients used in Harira Soup?
+42,How many calories are there per serving of Harira Soup?
+42,What meal type is Harira Soup intended for?
+42,How long does it take to prepare and cook Harira Soup?
+43,What are the main vegetables used in the Vegetable Tagine recipe?
+43,Is the Vegetable Tagine a suitable option for a vegetarian diet?
+43,How many calories are there in a serving of Vegetable Tagine?
+43,What is the protein content of the Vegetable Tagine?
+43,What cuisine does the Vegetable Tagine belong to?
+44,Is Biryani suitable for a gluten-free diet?
+44,What are the main ingredients in the Biryani recipe?
+44,How many calories are in a serving of Biryani?
+44,What meal type is this Biryani recipe intended for?
+44,What is the cuisine type of the Biryani dish?
+45,Is the Beetroot Hummus recipe suitable for a vegan diet?
+45,What are the main ingredients in the Beetroot Hummus?
+45,How many calories are in a serving of Beetroot Hummus?
+45,Can I use this Beetroot Hummus as a snack option?
+45,What cuisine does the Beetroot Hummus belong to?
+46,"How many carbs are in Chicken Yassa, considering it's a low-carb recipe?"
+46,Can this Chicken Yassa dish be served without rice for a lower carb option?
+46,What main ingredients make up the Chicken Yassa recipe?
+46,"Is Chicken Yassa suitable for high-protein diets, and if so, how much protein does it contain?"
+46,What is the cooking time for preparing Chicken Yassa from scratch?
+47,Is the Zucchini Fritters recipe suitable for a vegetarian diet?
+47,What are the main ingredients used in the Zucchini Fritters?
+47,How many calories does one serving of Zucchini Fritters contain?
+47,Can you tell me the protein content of the Zucchini Fritters?
+47,What is the cooking method for making Zucchini Fritters?
+48,Is the Moroccan Spiced Carrots recipe suitable for a vegan diet?
+48,What are the primary ingredients used in the Moroccan Spiced Carrots dish?
+48,How many calories are in the Moroccan Spiced Carrots recipe?
+48,What is the preparation method for the Moroccan Spiced Carrots?
+48,What type of cuisine does the Moroccan Spiced Carrots belong to?
+49,Is this fish taco recipe suitable for a gluten-free diet?
+49,How many calories are in the fish tacos?
+49,What type of fish is used in this recipe?
+49,Can I add additional toppings to the fish tacos?
+49,What is the meal type for this recipe?
+50,Is the Beef Kebabs recipe suitable for a gluten-free diet?
+50,What are the main ingredients used in the Beef Kebabs?
+50,How many calories does one serving of Beef Kebabs contain?
+50,What is the cooking method for the Beef Kebabs?
+50,Which cuisine type does the Beef Kebabs belong to?
+51,What are the main ingredients in the Greek Salad recipe?
+51,"Can you provide the nutritional information for the Greek Salad, including calories and macronutrients?"
+51,Is the Greek Salad suitable for a vegetarian diet?
+51,What is the meal type classification for the Greek Salad?
+51,What steps are involved in preparing the Greek Salad?
+52,What are the main ingredients in the Vegan Burrito Bowl?
+52,How many calories does the Vegan Burrito Bowl contain?
+52,Is the Vegan Burrito Bowl suitable for a vegan diet?
+52,What is the protein content in the Vegan Burrito Bowl?
+52,Can you explain the preparation steps for the Vegan Burrito Bowl?
+53,Is the Cauliflower Pizza recipe suitable for a gluten-free diet?
+53,What are the main ingredients used in the Cauliflower Pizza?
+53,How many calories are in a serving of the Cauliflower Pizza?
+53,What is the total protein content in the Cauliflower Pizza?
+53,How long does it take to prepare and cook the Cauliflower Pizza?
+54,Is Chicken Souvlaki a gluten-free option for dinner?
+54,What are the main ingredients used in the Chicken Souvlaki recipe?
+54,How long do I need to grill the chicken for the Chicken Souvlaki?
+54,What is the calorie content of the Chicken Souvlaki dish?
+54,Can I serve Chicken Souvlaki with toppings other than tzatziki?
+55,What are the main ingredients in the vegan Lentil Dahl recipe?
+55,How many calories are there in a serving of the vegan Lentil Dahl?
+55,What is the cooking method for preparing the vegan Lentil Dahl?
+55,Is the Lentil Dahl suitable for a dinner meal?
+55,Can you tell me the protein and carbohydrate content of the vegan Lentil Dahl?
+56,Is the Stuffed Cabbage Rolls recipe gluten-free?
+56,What are the main ingredients used in the Stuffed Cabbage Rolls?
+56,How many calories are in a serving of Stuffed Cabbage Rolls?
+56,What cooking methods are used to prepare the Stuffed Cabbage Rolls?
+56,What cuisine does Stuffed Cabbage Rolls belong to?
+57,Is the Sweet Potato Fries recipe suitable for a vegan diet?
+57,What are the ingredients required to make Sweet Potato Fries?
+57,How many calories are there in a serving of Sweet Potato Fries?
+57,What is the cooking method for the Sweet Potato Fries?
+57,Can you tell me the nutritional breakdown of the Sweet Potato Fries?
+58,What are the main ingredients in Baba Ganoush that make it suitable for a vegan diet?
+58,How many calories are in a serving of Baba Ganoush?
+58,Can you tell me the protein content per serving of this Baba Ganoush recipe?
+58,What meal type is Baba Ganoush categorized under?
+58,What is the primary method of preparation for Baba Ganoush?
+59,Is the Tandoori Chicken recipe suitable for a gluten-free diet?
+59,What are the calorie and protein content in the Tandoori Chicken dish?
+59,How long should I grill the Tandoori Chicken for optimal cooking?
+59,What ingredients are required to prepare the Tandoori Chicken?
+59,What cuisine does the Tandoori Chicken recipe belong to?
+60,Is the Spinach & Feta Quiche suitable for a vegetarian diet?
+60,What are the main ingredients in the Spinach & Feta Quiche?
+60,How many calories are there in a serving of the Spinach & Feta Quiche?
+60,What meal type is the Spinach & Feta Quiche intended for?
+60,How long does it take to bake the Spinach & Feta Quiche?
+61,Is there a vegetarian version of the Samosas recipe?
+61,What are the nutritional facts for the Samosas if I omit the ground beef?
+61,Can I use a different type of pastry for the Samosas to make them vegetarian?
+61,What alternative ingredients would you recommend for a vegetarian filling in the Samosas?
+61,How can I adjust the cooking instructions to ensure the Samosas remain vegetarian?
+62,What are the main ingredients used in the Vegetable Biryani recipe?
+62,Is the Vegetable Biryani suitable for a vegetarian diet?
+62,How many calories does one serving of Vegetable Biryani contain?
+62,What meal type is the Vegetable Biryani intended for?
+62,What cuisine does the Vegetable Biryani belong to?
+63,What are the main ingredients in the Chickpea Salad recipe?
+63,Can you provide the nutritional information for the Chickpea Salad?
+63,Is the Chickpea Salad suitable for a vegan diet?
+63,What type of cuisine does the Chickpea Salad belong to?
+63,How is the Chickpea Salad prepared?
+64,What are the main ingredients in the Red Lentil Curry recipe?
+64,Is the Red Lentil Curry suitable for a vegan diet?
+64,How many calories does the Red Lentil Curry contain per serving?
+64,What type of meal is the Red Lentil Curry intended for?
+64,Can you describe the cooking instructions for the Red Lentil Curry?
+65,Is the Greek Yogurt Parfait gluten-free?
+65,What are the main ingredients in the Greek Yogurt Parfait?
+65,How many calories does the Greek Yogurt Parfait contain?
+65,What meal is the Greek Yogurt Parfait suitable for?
+65,Can you tell me how to prepare the Greek Yogurt Parfait?
+66,Is the Coconut Chia Pudding recipe suitable for a vegan diet?
+66,What are the main ingredients in the Coconut Chia Pudding?
+66,How many calories are in the Coconut Chia Pudding recipe?
+66,Can you explain the preparation method for the Coconut Chia Pudding?
+66,What types of fresh fruit can be added to the Coconut Chia Pudding for serving?
+67,Is the Quinoa Stuffed Peppers recipe suitable for a vegetarian diet?
+67,What are the main ingredients used in the Quinoa Stuffed Peppers?
+67,How many calories are in the Quinoa Stuffed Peppers dish?
+67,What type of cuisine does the Quinoa Stuffed Peppers recipe belong to?
+67,How long do I need to bake the stuffed peppers in the oven?
+68,What ingredients are needed to prepare the Moroccan Chickpea Stew?
+68,Can you provide the nutritional information for this vegan recipe?
+68,Is Moroccan Chickpea Stew suitable for a dinner meal?
+68,What is the cooking method for the Moroccan Chickpea Stew?
+68,How long does it take to prepare and cook the stew?
+69,Is the Shrimp Fried Rice recipe suitable for a gluten-free diet?
+69,What are the main ingredients used in the Shrimp Fried Rice recipe?
+69,How many calories are in one serving of Shrimp Fried Rice?
+69,What is the meal type for the Shrimp Fried Rice recipe?
+69,Can you describe the cooking instructions for the Shrimp Fried Rice?
+70,Is this Chili Con Carne recipe gluten-free?
+70,What are the main ingredients in the Chili Con Carne?
+70,How many calories are in one serving of the Chili Con Carne?
+70,What is the protein content of the Chili Con Carne?
+70,How long does it take to prepare the Chili Con Carne?
+71,Is the Fruit Smoothie suitable for a vegan diet?
+71,What are the main ingredients in the Fruit Smoothie?
+71,How many calories are in the Fruit Smoothie per serving?
+71,What is the recommended meal type for the Fruit Smoothie?
+71,What is the method for preparing the Fruit Smoothie?
+72,Is the Pumpkin Soup suitable for a vegetarian diet?
+72,What are the main ingredients used in the Pumpkin Soup recipe?
+72,How many calories does the Pumpkin Soup contain?
+72,What is the cooking process for making the Pumpkin Soup?
+72,How long should the Pumpkin Soup simmer before blending?
+73,Is the Baked Ziti recipe suitable for a vegetarian diet?
+73,What are the main ingredients used in the Baked Ziti?
+73,How many calories does one serving of Baked Ziti contain?
+73,What is the recommended cooking time for the Baked Ziti?
+73,Can you tell me the protein content in the Baked Ziti recipe?
+74,Is the Banana Oatmeal recipe suitable for a vegan diet?
+74,What ingredients do I need to make Banana Oatmeal?
+74,How many calories are in the Banana Oatmeal?
+74,What is the preparation method for the Banana Oatmeal?
+74,Is Banana Oatmeal a good option for breakfast?
+75,Is Spaghetti Aglio e Olio suitable for a vegetarian diet?
+75,What are the main ingredients in Spaghetti Aglio e Olio?
+75,How many calories are in a serving of Spaghetti Aglio e Olio?
+75,What is the protein content in Spaghetti Aglio e Olio?
+75,Can you describe the preparation steps for Spaghetti Aglio e Olio?
+76,Is the Vegetarian Sushi Rolls recipe suitable for a vegan diet?
+76,What are the main ingredients in the Vegetarian Sushi Rolls?
+76,How many calories are in one serving of Vegetarian Sushi Rolls?
+76,What is the protein content in the Vegetarian Sushi Rolls?
+76,Can I use other vegetables in the Vegetarian Sushi Rolls instead of carrots and cucumber?
+77,Is the Sweet and Sour Chicken recipe suitable for a gluten-free diet?
+77,What are the main ingredients used in the Sweet and Sour Chicken recipe?
+77,How many calories are in a serving of Sweet and Sour Chicken?
+77,What meal type is the Sweet and Sour Chicken intended for?
+77,Can I serve Sweet and Sour Chicken with rice?
+78,What are the main ingredients in the Veggie Burger recipe?
+78,How many calories does the Veggie Burger contain?
+78,Is the Veggie Burger recipe suitable for a vegan diet?
+78,What is the protein content of the Veggie Burger?
+78,How do you prepare the Veggie Burger?
+79,What are the main ingredients used in the Stuffed Acorn Squash recipe?
+79,Can you tell me the total calories in the Stuffed Acorn Squash dish?
+79,Is the Stuffed Acorn Squash recipe suitable for a vegetarian diet?
+79,What type of meal is the Stuffed Acorn Squash recipe designed for?
+79,How do you prepare the Stuffed Acorn Squash before serving?
+80,Is the Vegetable Pad Thai suitable for a vegan diet?
+80,What are the main ingredients used in the Vegetable Pad Thai recipe?
+80,How many calories are in a serving of Vegetable Pad Thai?
+80,What is the protein content of this Vegetable Pad Thai dish?
+80,What is the cooking method for the Vegetable Pad Thai?
+81,Is the Beef Stir-Fry recipe gluten-free?
+81,What are the main ingredients in the Beef Stir-Fry?
+81,How many calories does the Beef Stir-Fry contain?
+81,What meal type is the Beef Stir-Fry suitable for?
+81,Can I serve the Beef Stir-Fry with rice or noodles?
+82,Is the Potato Wedges recipe suitable for a vegan diet?
+82,What is the calorie content of the Potato Wedges?
+82,What cooking method is used for preparing the Potato Wedges?
+82,How much protein is in the Potato Wedges?
+82,What seasonings are included in the Potato Wedges recipe?
+83,Is the Garlic Butter Shrimp recipe suitable for a gluten-free diet?
+83,What are the main ingredients used in the Garlic Butter Shrimp dish?
+83,How many calories are in the Garlic Butter Shrimp recipe?
+83,What type of meal is the Garlic Butter Shrimp intended for?
+83,What cuisine does the Garlic Butter Shrimp belong to?
+84,Is the Spinach and Feta Pie suitable for a vegetarian diet?
+84,What is the total calorie count for the Spinach and Feta Pie?
+84,How long does it take to prepare and bake the Spinach and Feta Pie?
+84,What main ingredients are used in the Spinach and Feta Pie?
+84,Can I serve the Spinach and Feta Pie as a dinner option?
+85,Is the Zucchini Noodles recipe suitable for a vegan diet?
+85,What are the main ingredients for making Zucchini Noodles?
+85,Can Zucchini Noodles be prepared quickly for lunch?
+85,What is the calorie count per serving of Zucchini Noodles?
+85,Does Zucchini Noodles contain any protein?
+86,What ingredients do I need to prepare the Vegetable Stir-Fry?
+86,How many calories are in the Vegetable Stir-Fry?
+86,Is the Vegetable Stir-Fry suitable for a vegan diet?
+86,What cooking instructions should I follow for this recipe?
+86,What is the protein content in the Vegetable Stir-Fry?
+87,What ingredients are used in the Caprese Salad recipe?
+87,Is Caprese Salad suitable for a vegetarian diet?
+87,How many calories are in the Caprese Salad?
+87,What is the preparation method for making Caprese Salad?
+87,What type of dish is Caprese Salad categorized as?
+88,Is the Chia Seed Pudding suitable for a vegan diet?
+88,What ingredients do I need to make Chia Seed Pudding?
+88,How many calories are in the Chia Seed Pudding recipe?
+88,What meal type is Chia Seed Pudding categorized as?
+88,Can you explain the instructions for preparing Chia Seed Pudding?
+89,What are the main ingredients in the Vegetable Quesadilla?
+89,Is the Vegetable Quesadilla suitable for a vegetarian diet?
+89,How many calories are in the Vegetable Quesadilla?
+89,What type of cuisine does the Vegetable Quesadilla belong to?
+89,What is the preparation method for the Vegetable Quesadilla?
+90,Is Chicken Tikka Masala gluten-free?
+90,What are the main ingredients in the Chicken Tikka Masala recipe?
+90,Can I serve Chicken Tikka Masala with rice or naan?
+90,What is the calorie count for Chicken Tikka Masala?
+90,How do I prepare the Chicken Tikka Masala?
+91,Is the Banana Pancakes recipe suitable for a vegetarian diet?
+91,What are the main ingredients used in the Banana Pancakes recipe?
+91,How many calories are in the Banana Pancakes?
+91,What is the meal type for Banana Pancakes?
+91,What is the recommended cuisine type for the Banana Pancakes?
+92,Is this Beetroot Salad suitable for a vegan diet?
+92,What are the main ingredients in the Beetroot Salad?
+92,How many calories are in the Beetroot Salad?
+92,What meal type is the Beetroot Salad intended for?
+92,Can you provide the preparation instructions for the Beetroot Salad?
+93,Is the Tom Yum Soup suitable for a gluten-free diet?
+93,What are the main ingredients in the Tom Yum Soup?
+93,How many calories are in a serving of Tom Yum Soup?
+93,Can you tell me about the protein content in the Tom Yum Soup?
+93,What are the cooking instructions for preparing Tom Yum Soup?
+94,Is this Ratatouille recipe suitable for a vegan diet?
+94,What are the main ingredients in this Ratatouille dish?
+94,How many calories are in one serving of Ratatouille?
+94,What is the meal type for this recipe?
+94,Can I serve Ratatouille hot or cold?
+95,What are the main ingredients used in the Thai Green Curry recipe?
+95,How many calories are there in a serving of the Thai Green Curry?
+95,Is this Thai Green Curry suitable for a vegan diet?
+95,What is the protein content per serving of the Thai Green Curry?
+95,What meal type is the Thai Green Curry recommended for?
+96,Is the Peach Crumble recipe suitable for a vegetarian diet?
+96,What are the main ingredients used in the Peach Crumble?
+96,How many calories are in a serving of the Peach Crumble?
+96,What is the preparation time for the Peach Crumble dessert?
+96,Can I find the nutritional information for the Peach Crumble?
+97,What ingredients are used in the Vegetable Samosas recipe?
+97,How many calories are there in a serving of Vegetable Samosas?
+97,Is the Vegetable Samosas recipe vegetarian?
+97,What cooking method is used for the Vegetable Samosas?
+97,What cuisine type does the Vegetable Samosas belong to?
+98,What are the main ingredients used in the Garlic Parmesan Pasta recipe?
+98,Is the Garlic Parmesan Pasta suitable for a vegetarian diet?
+98,How many calories are in one serving of the Garlic Parmesan Pasta?
+98,What is the meal type for the Garlic Parmesan Pasta dish?
+98,Can you describe the cooking procedure for the Garlic Parmesan Pasta?
+99,Is the Chocolava Cake suitable for a vegetarian diet?
+99,What are the main ingredients used in the Chocolava Cake recipe?
+99,How many calories are there in a serving of Chocolava Cake?
+99,What is the protein content of the Chocolava Cake?
+99,How long do I need to bake the Chocolava Cake?
+100,What vegetables are used in the Grilled Vegetable Skewers recipe?
+100,Is the Grilled Vegetable Skewers recipe suitable for a vegan diet?
+100,How many calories are in each serving of the Grilled Vegetable Skewers?
+100,What is the preparation method for the Grilled Vegetable Skewers?
+100,What is the primary cuisine type of the Grilled Vegetable Skewers?
+101,Is the Barley Salad recipe suitable for a vegetarian diet?
+101,What are the key ingredients in the Barley Salad?
+101,How many calories does the Barley Salad contain?
+101,What is the protein content in the Barley Salad?
+101,What is the recommended meal type for the Barley Salad?
+102,Is the Sesame Chicken recipe suitable for a gluten-free diet?
+102,What is the calorie content of the Sesame Chicken dish?
+102,Can you tell me the protein amount in the Sesame Chicken recipe?
+102,How do you prepare the Sesame Chicken?
+102,What meal type is the Sesame Chicken recipe intended for?
+103,Is the Curried Lentils recipe suitable for a vegan diet?
+103,What are the main ingredients in the Curried Lentils dish?
+103,How many calories are in a serving of Curried Lentils?
+103,What type of meal is the Curried Lentils recipe intended for?
+103,What is the cuisine type of the Curried Lentils recipe?
+104,Is this recipe for Roasted Brussels Sprouts suitable for a vegan diet?
+104,What ingredients do I need to prepare the Roasted Brussels Sprouts?
+104,How many calories are there in the Roasted Brussels Sprouts recipe?
+104,What is the cooking temperature and time for the Roasted Brussels Sprouts?
+104,Can I serve Roasted Brussels Sprouts as a side dish with other meals?
+105,Is this peanut butter cookie recipe suitable for vegetarians?
+105,What are the main ingredients in these peanut butter cookies?
+105,How many calories are in each serving of the peanut butter cookies?
+105,What is the preparation process for making peanut butter cookies?
+105,Can you tell me the nutritional breakdown of the peanut butter cookies?
+106,What are the main ingredients in the Caprese Skewers recipe?
+106,How many calories does one serving of Caprese Skewers contain?
+106,Is the Caprese Skewers recipe suitable for a vegetarian diet?
+106,What is the meal type of this recipe?
+106,How do you prepare the Caprese Skewers?
+107,Is the Berry Smoothie recipe suitable for a vegetarian diet?
+107,What ingredients are needed to prepare the Berry Smoothie?
+107,Can you provide the nutritional information for the Berry Smoothie?
+107,What meal type is the Berry Smoothie designed for?
+107,What are the steps to make the Berry Smoothie?
+108,Is the Chocolate Mousse suitable for a vegetarian diet?
+108,What are the main ingredients in the Chocolate Mousse recipe?
+108,What is the calorie count of the Chocolate Mousse?
+108,How is the Chocolate Mousse prepared and served?
+108,What meal type does the Chocolate Mousse fall under?
+109,Is the Spicy Tuna Sushi recipe suitable for a gluten-free diet?
+109,What is the calorie count for one serving of Spicy Tuna Sushi?
+109,Can I include this recipe in my dinner plan for a Japanese cuisine night?
+109,What type of fats are present in the Spicy Tuna Sushi and in what amount?
+109,How do I prepare the Spicy Tuna Sushi from start to finish?
+110,What are the main ingredients in the Maple Oatmeal recipe?
+110,Is the Maple Oatmeal recipe suitable for a vegan diet?
+110,What is the caloric content of the Maple Oatmeal breakfast?
+110,How is the Maple Oatmeal prepared according to the instructions?
+110,What meal type does the Maple Oatmeal recipe belong to?
+111,Is the Spinach Artichoke Dip suitable for a vegetarian diet?
+111,What are the calorie and protein contents of the Spinach Artichoke Dip?
+111,Can I serve the Spinach Artichoke Dip as an appetizer?
+111,What ingredients are used in the Spinach Artichoke Dip recipe?
+111,What is the preparation method for the Spinach Artichoke Dip?
+112,Is the Roasted Chicken recipe suitable for a gluten-free diet?
+112,What are the main ingredients in the Roasted Chicken recipe?
+112,How many calories are there in the Roasted Chicken dish?
+112,What is the protein content in the Roasted Chicken?
+112,What cooking temperature is recommended for roasting the chicken?
+113,Is the Grilled Cheese Sandwich suitable for a vegetarian diet?
+113,What are the main ingredients of the Grilled Cheese Sandwich?
+113,How many calories are in the Grilled Cheese Sandwich?
+113,What type of meal is the Grilled Cheese Sandwich typically eaten for?
+113,Can you describe the cooking instructions for the Grilled Cheese Sandwich?
+114,Is the Cauliflower Rice recipe suitable for a vegan diet?
+114,What are the main ingredients of the Cauliflower Rice dish?
+114,How many calories are in the Cauliflower Rice?
+114,What cooking method is used in the preparation of Cauliflower Rice?
+114,How long does it take to cook the Cauliflower Rice?
+115,Are these Chocolate Chip Muffins suitable for a vegetarian diet?
+115,What is the calorie count for one serving of the Chocolate Chip Muffins?
+115,Can you tell me the protein content in the Chocolate Chip Muffins?
+115,What are the main ingredients used in the Chocolate Chip Muffins recipe?
+115,How long do I need to bake the Chocolate Chip Muffins?
+116,Is the Coconut Rice recipe suitable for a vegan diet?
+116,What are the main ingredients used in the Coconut Rice dish?
+116,How many calories are there in a serving of Coconut Rice?
+116,What type of cuisine is Coconut Rice classified under?
+116,What is the recommended meal type for Coconut Rice?
+117,Is the Raspberry Sorbet suitable for a vegan diet?
+117,What are the main ingredients in the Raspberry Sorbet?
+117,How many calories are in a serving of Raspberry Sorbet?
+117,What type of meal is the Raspberry Sorbet categorized as?
+117,How do you prepare the Raspberry Sorbet?
+118,Is the Chicken Caesar Salad gluten-free?
+118,What are the main ingredients in the Chicken Caesar Salad?
+118,How many calories are in a Chicken Caesar Salad?
+118,What is the protein content in this salad?
+118,What meal type is the Chicken Caesar Salad designed for?
+119,What ingredients are used in the Peach Salsa recipe?
+119,Is the Peach Salsa recipe suitable for a vegan diet?
+119,How many calories are in one serving of the Peach Salsa?
+119,What meal type is the Peach Salsa intended for?
+119,What is the preparation process for making the Peach Salsa?
+120,Is the Spinach and Cheese Stuffed Chicken gluten-free?
+120,What are the main ingredients used in the recipe?
+120,How many calories does the Spinach and Cheese Stuffed Chicken contain?
+120,What is the cooking method for the chicken dish?
+120,What is the recommended meal type for this recipe?
+121,Is the Quiche Lorraine recipe gluten-free?
+121,What are the main ingredients in the Quiche Lorraine?
+121,How many calories are in the Quiche Lorraine?
+121,What is the cooking time for the Quiche Lorraine?
+121,Can I serve Quiche Lorraine for breakfast?
+122,Is this fruit salad suitable for a vegan diet?
+122,What ingredients are used in the fruit salad?
+122,How many calories are in the fruit salad?
+122,What is the meal type of this recipe?
+122,What are the preparation steps for making the fruit salad?
+123,Is this beef taco recipe suitable for a gluten-free diet?
+123,What are the main ingredients used in the beef tacos?
+123,How many calories are in one serving of beef tacos?
+123,Can you provide the protein content of the beef tacos?
+123,What is the preparation method for making the beef tacos?
+124,Is the Brownie Sundae suitable for a vegetarian diet?
+124,What are the main ingredients in the Brownie Sundae?
+124,How many calories are in the Brownie Sundae?
+124,What type of meal is the Brownie Sundae classified as?
+124,What is the preparation method for the Brownie Sundae?
+125,Is the Vegetable Soup suitable for a vegan diet?
+125,What are the main ingredients in the Vegetable Soup?
+125,How many calories are in a serving of Vegetable Soup?
+125,What type of meal is the Vegetable Soup designed for?
+125,What is the cooking method used for the Vegetable Soup?
+126,Is the chili recipe suitable for a gluten-free diet?
+126,What are the main ingredients in the chili dish?
+126,How many calories does one serving of chili contain?
+126,What is the protein content of the chili recipe?
+126,What is the preparation time for making the chili?
+127,Is the Apple Crisp recipe suitable for a vegetarian diet?
+127,What are the main ingredients used in the Apple Crisp?
+127,How many calories does one serving of the Apple Crisp contain?
+127,What type of meal is the Apple Crisp classified as?
+127,Can you provide the baking instructions for the Apple Crisp?
+128,Is the Buffalo Cauliflower Bites recipe suitable for a vegan diet?
+128,What ingredients are needed to make Buffalo Cauliflower Bites?
+128,How many calories are in a serving of Buffalo Cauliflower Bites?
+128,What is the cooking temperature and time for the Buffalo Cauliflower Bites?
+128,"Can I serve Buffalo Cauliflower Bites with a dip, and if so, what type?"
+129,Is the Teriyaki Chicken recipe gluten-free?
+129,What are the main ingredients in the Teriyaki Chicken dish?
+129,How many calories are in one serving of Teriyaki Chicken?
+129,What type of cuisine does the Teriyaki Chicken belong to?
+129,What meal is suggested for the Teriyaki Chicken recipe?
+130,Is the Chocolate Covered Strawberries recipe suitable for a vegetarian diet?
+130,What are the main ingredients in the Chocolate Covered Strawberries recipe?
+130,How many calories are in a serving of Chocolate Covered Strawberries?
+130,What is the meal type for the Chocolate Covered Strawberries dish?
+130,Can you explain the preparation steps for making Chocolate Covered Strawberries?
+131,What are the main ingredients in the Grilled Vegetable Sandwich?
+131,How many calories are there in the Grilled Vegetable Sandwich?
+131,Is the Grilled Vegetable Sandwich suitable for a vegan diet?
+131,What meal type is the Grilled Vegetable Sandwich intended for?
+131,What is the preparation process for making the Grilled Vegetable Sandwich?
+132,Is the Banana Bread recipe suitable for a vegetarian diet?
+132,What are the main ingredients in the Banana Bread recipe?
+132,How many calories are in a serving of Banana Bread?
+132,What is the recommended meal type for this Banana Bread?
+132,What temperature should I bake the Banana Bread at?
+133,Is the Peanut Noodles recipe suitable for a vegan diet?
+133,What are the main ingredients used in the Peanut Noodles dish?
+133,How many calories are there in the Peanut Noodles recipe?
+133,What is the protein content of the Peanut Noodles dish?
+133,What is the recommended meal type for this recipe?
+134,What are the main ingredients in the quinoa salad?
+134,Is this quinoa salad suitable for a vegetarian diet?
+134,How many calories does the quinoa salad contain?
+134,What is the protein content in this recipe?
+134,What type of cuisine does this quinoa salad belong to?
+135,Is the Spinach and Feta Stuffed Chicken suitable for a gluten-free diet?
+135,What are the main ingredients required to prepare the Spinach and Feta Stuffed Chicken?
+135,How many calories are there in the Spinach and Feta Stuffed Chicken recipe?
+135,What is the protein content of the Spinach and Feta Stuffed Chicken?
+135,What type of meal is the Spinach and Feta Stuffed Chicken intended for?
+136,What ingredients are included in the Veggie Pizza recipe?
+136,Is the Veggie Pizza suitable for a vegetarian diet?
+136,How many calories are in a serving of Veggie Pizza?
+136,What is the cooking temperature and time for the Veggie Pizza?
+136,What meal type is the Veggie Pizza intended for?
+137,Is this chocolate chip cookie recipe suitable for a vegetarian diet?
+137,What ingredients are used in the chocolate chip cookies?
+137,How many calories are in one serving of these cookies?
+137,What is the meal type for this recipe?
+137,Can you tell me the cooking instructions for the chocolate chip cookies?
+138,Is the recipe for Cabbage Rolls gluten-free?
+138,What is the main protein source in the Cabbage Rolls recipe?
+138,How many calories are in one serving of Cabbage Rolls?
+138,What type of cuisine do Cabbage Rolls belong to?
+138,What is the cooking temperature and time for the Cabbage Rolls?
+139,Is the Peach Smoothie suitable for a vegetarian diet?
+139,What are the main ingredients in the Peach Smoothie?
+139,How many calories are in the Peach Smoothie?
+139,What meal is the Peach Smoothie intended for?
+139,Can you describe how to prepare the Peach Smoothie?
+140,Is the carrot cake recipe suitable for a vegetarian diet?
+140,What are the main ingredients in the carrot cake?
+140,How many calories does the carrot cake contain?
+140,What is the preparation time for the carrot cake with frosting?
+140,What type of dessert is this recipe categorized as?
+141,Is the Chickpea Burgers recipe suitable for a vegan diet?
+141,What are the main ingredients used in the Chickpea Burgers?
+141,How many calories are there in one serving of the Chickpea Burgers?
+141,What is the protein content per serving of the Chickpea Burgers?
+141,What steps are involved in preparing the Chickpea Burgers?
+142,Is the Avocado Brownies recipe suitable for a vegetarian diet?
+142,What are the main ingredients used in Avocado Brownies?
+142,How many calories are in a serving of these brownies?
+142,What is the recommended baking temperature for the Avocado Brownies?
+142,How long should I let the brownies cool before cutting?
+143,Is this egg salad suitable for a vegetarian diet?
+143,What are the main ingredients in the egg salad recipe?
+143,How many calories are in the egg salad?
+143,What is the protein content of the egg salad?
+143,What meal type is this egg salad intended for?
+144,Is the Falafel Wraps recipe suitable for a vegan diet?
+144,What are the main ingredients used in the Falafel Wraps?
+144,How many calories are in one serving of the Falafel Wraps?
+144,What type of meal is the Falafel Wraps intended for?
+144,Can you describe the preparation steps for making Falafel Wraps?
+145,Is the Spiced Lentil Stew a vegan recipe?
+145,What is the main source of protein in this dish?
+145,How many calories does the Spiced Lentil Stew contain?
+145,What are the primary ingredients used in the Spiced Lentil Stew?
+145,Is this recipe suitable for a Middle Eastern cuisine-themed dinner?
+146,What are the main ingredients used in the Apple Cinnamon Oatmeal recipe?
+146,Is the Apple Cinnamon Oatmeal recipe suitable for a vegetarian diet?
+146,What is the calorie count for a serving of Apple Cinnamon Oatmeal?
+146,Can you provide the preparation instructions for making Apple Cinnamon Oatmeal?
+146,What meal type is the Apple Cinnamon Oatmeal recipe intended for?
+147,Is the Shrimp Tacos recipe suitable for a gluten-free diet?
+147,What are the main ingredients in the gluten-free Shrimp Tacos?
+147,How many calories are in the Shrimp Tacos dinner recipe?
+147,What is the protein content in the Shrimp Tacos meal?
+147,What is the preparation method for the gluten-free Shrimp Tacos?
+148,Is the Cauliflower Rice Stir-Fry suitable for vegans?
+148,What are the main ingredients in the Cauliflower Rice Stir-Fry?
+148,Can you tell me the calorie content of the Cauliflower Rice Stir-Fry?
+148,What type of cuisine does the Cauliflower Rice Stir-Fry belong to?
+148,What is the meal type for Cauliflower Rice Stir-Fry?
+149,Is the Peach Crisp recipe suitable for a vegetarian diet?
+149,What are the main ingredients used in the Peach Crisp?
+149,How many calories does one serving of Peach Crisp contain?
+149,What is the preparation time for the Peach Crisp dessert?
+149,"Can I serve the Peach Crisp with ice cream, and does it complement the dish?"
+150,Is the BBQ Chicken Sandwich suitable for a gluten-free diet?
+150,What are the main ingredients in the BBQ Chicken Sandwich?
+150,How many calories does the BBQ Chicken Sandwich contain?
+150,Can I enjoy the BBQ Chicken Sandwich for lunch?
+150,What cuisine is the BBQ Chicken Sandwich associated with?
+151,Is the Vegetable Fried Rice recipe suitable for a vegan diet?
+151,What are the main ingredients used in the Vegetable Fried Rice dish?
+151,How many calories are in one serving of Vegetable Fried Rice?
+151,What is the protein content per serving in the Vegetable Fried Rice?
+151,Can you describe the cooking instructions for preparing Vegetable Fried Rice?
+152,Is the Minestrone Soup recipe suitable for a vegan diet?
+152,What are the main ingredients in the Minestrone Soup?
+152,How many calories are in a serving of the Minestrone Soup?
+152,What nutritional information can I find for the Minestrone Soup?
+152,What is the cooking process for the Minestrone Soup?
+153,What ingredients are used in this vegan sushi recipe?
+153,How many calories does the vegetarian sushi contain?
+153,Can you tell me the protein content in this recipe?
+153,What type of cuisine is this recipe associated with?
+153,What are the basic steps to prepare this vegan sushi?
+154,Is this Egg Salad Sandwich suitable for a vegetarian diet?
+154,What are the main ingredients in the Egg Salad Sandwich?
+154,How many calories are in the Egg Salad Sandwich?
+154,What is the protein content of the Egg Salad Sandwich?
+154,Can I prepare this sandwich for lunch?
+155,Is the Pulled Pork Sandwich gluten-free?
+155,What are the main ingredients in the Pulled Pork Sandwich?
+155,How many calories does the Pulled Pork Sandwich contain?
+155,What meal type is the Pulled Pork Sandwich suitable for?
+155,What cuisine type does the Pulled Pork Sandwich represent?
+156,Is the Peanut Butter Banana Smoothie suitable for a vegetarian diet?
+156,What are the main ingredients used in the Peanut Butter Banana Smoothie?
+156,Can I have the Peanut Butter Banana Smoothie for breakfast?
+156,What is the calorie count for the Peanut Butter Banana Smoothie?
+156,How do I prepare the Peanut Butter Banana Smoothie?
+157,Is the recipe for Stuffed Zucchini Boats suitable for gluten-free diets?
+157,What is the calorie count for a serving of Stuffed Zucchini Boats?
+157,What types of meat are used in the Stuffed Zucchini Boats recipe?
+157,How long should I bake the Stuffed Zucchini Boats in the oven?
+157,What are the primary ingredients in Stuffed Zucchini Boats?
+158,What ingredients do I need for the Roasted Vegetable Quinoa recipe?
+158,How many calories are in the Roasted Vegetable Quinoa dish?
+158,Can you tell me the protein content of the Roasted Vegetable Quinoa?
+158,What meal type is the Roasted Vegetable Quinoa intended for?
+158,What are the cooking instructions for preparing this vegan recipe?
+159,Is the Teriyaki Salmon recipe suitable for a gluten-free diet?
+159,What are the main ingredients used in Teriyaki Salmon?
+159,How many calories are in a serving of Teriyaki Salmon?
+159,What is the recommended meal type for this recipe?
+159,Could you provide the cooking instructions for Teriyaki Salmon?
+160,Is the Caprese Pasta Salad suitable for a vegetarian diet?
+160,What are the main ingredients in the Caprese Pasta Salad?
+160,How many calories are in a serving of Caprese Pasta Salad?
+160,What type of meal is Caprese Pasta Salad typically served as?
+160,What cuisine does the Caprese Pasta Salad belong to?
+161,Is the Beef and Broccoli recipe suitable for a gluten-free diet?
+161,What are the main ingredients used in the Beef and Broccoli dish?
+161,How many calories are in the Beef and Broccoli recipe?
+161,What is the meal type for the Beef and Broccoli dish?
+161,Can I find this recipe in Chinese cuisine?
+162,Is the Peach Cobbler recipe suitable for a vegetarian diet?
+162,What ingredients do I need to make the Peach Cobbler?
+162,How many calories are in a serving of Peach Cobbler?
+162,What is the cooking time for the Peach Cobbler recipe?
+162,What type of cuisine does the Peach Cobbler belong to?
+163,Is the Banana Oatmeal Pancakes recipe suitable for a vegetarian diet?
+163,What are the main ingredients used in the Banana Oatmeal Pancakes?
+163,Can you tell me the nutritional information for the Banana Oatmeal Pancakes?
+163,What type of meal is the Banana Oatmeal Pancakes intended for?
+163,What is the cooking process for making Banana Oatmeal Pancakes?
+164,Is the Chocolate Smoothie suitable for a vegetarian diet?
+164,What are the main ingredients used in the Chocolate Smoothie recipe?
+164,Can you tell me the nutritional information for one serving of the Chocolate Smoothie?
+164,What meal type is the Chocolate Smoothie recommended for?
+164,How do you prepare the Chocolate Smoothie?
+165,What are the main ingredients in the Vegetarian Lasagna?
+165,How many calories does one serving of the Vegetarian Lasagna have?
+165,Can you provide the dinner instructions for making Vegetarian Lasagna?
+165,What meal type is the Vegetarian Lasagna classified under?
+165,Is the Vegetarian Lasagna suitable for someone on a vegetarian diet?
+166,Is the Coconut Rice Pudding suitable for a vegan diet?
+166,What are the main ingredients used in the Coconut Rice Pudding recipe?
+166,How many calories are there in a serving of Coconut Rice Pudding?
+166,What is the total carbohydrate content in the Coconut Rice Pudding?
+166,Can I serve Coconut Rice Pudding warm or is it better chilled?
+167,Is the BBQ Chicken Pizza suitable for a gluten-free diet?
+167,What are the main ingredients in the BBQ Chicken Pizza?
+167,How many calories does the BBQ Chicken Pizza contain?
+167,What is the cooking method for the BBQ Chicken Pizza?
+167,How long should I bake the BBQ Chicken Pizza?
+168,Is the Sweet Potato and Black Bean Tacos recipe suitable for a vegan diet?
+168,What are the main ingredients needed to prepare the Sweet Potato and Black Bean Tacos?
+168,How many calories are there in the Sweet Potato and Black Bean Tacos?
+168,What type of meal is the Sweet Potato and Black Bean Tacos meant for?
+168,Can you provide the cooking instructions for the Sweet Potato and Black Bean Tacos?
+169,What are the main ingredients in the Chocolate Avocado Mousse recipe?
+169,Is the Chocolate Avocado Mousse suitable for a vegan diet?
+169,How many calories are in the Chocolate Avocado Mousse dessert?
+169,What is the meal type for the Chocolate Avocado Mousse?
+169,What are the steps to prepare the Chocolate Avocado Mousse?
+170,Is the Herbed Chicken Breast recipe gluten-free?
+170,What are the main ingredients used in the Herbed Chicken Breast?
+170,How long should I bake the chicken breast for this recipe?
+170,What is the calorie count for the Herbed Chicken Breast dish?
+170,Can I serve the Herbed Chicken Breast with a side salad?
